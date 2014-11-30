@@ -1,0 +1,29 @@
+{
+  "name": "event-signals",
+  "version": "1.0.0",
+  "description": "signal events",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quarterto-event-signals"
+  },
+  "keywords": [
+    "event",
+    "dom",
+    "signal"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com> (http://blog.153.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "curry": "^1.2.0",
+    "shoutout": "^1.1.0"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "karma-sinon-expect": "^0.1.4",
+    "mocha": "^2.0.1"
+  }
+}
